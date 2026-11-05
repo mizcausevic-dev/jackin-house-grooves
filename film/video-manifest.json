@@ -1,0 +1,26 @@
+{
+  "title": "Jackin House Grooves",
+  "study": "jk01",
+  "bpm": 126,
+  "source_audio": "preview/jackin-house-grooves-simple-synth-preview.mp3",
+  "source_audio_sha256": "b3306ced4ad0929bb31986df5213a2d2b2514e09e5d10022ca2713c567a55835",
+  "source_midi": "midi/jk01-brick-floor/jk01-brick-floor-combined.mid",
+  "source_midi_sha256": "6a9d8bc9c6e7b3bce83cc6524bd56c27d16c1ff1c04aed0d29af2c08228c5897",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "80b3f721cc6fc849bdb81b9dcd72efa6a8ef3fff2be359ca74dea8f7425ddbe3",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "bec57ac7d35f927bd2b2ff4b840e44389c77aa2db1a0e4a791b58f8de09368e7",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "2dd71a64c3bbdb8bea86a36d9dda64e24836613d36ed0020042ff4dbfa412135",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

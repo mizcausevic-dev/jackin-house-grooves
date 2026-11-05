@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/jackin-house-grooves-simple-synth-preview.mp3",
+  "preview_sha256": "b3306ced4ad0929bb31986df5213a2d2b2514e09e5d10022ca2713c567a55835",
+  "source_midi_path": "midi/jk01-brick-floor/jk01-brick-floor-combined.mid",
+  "source_midi_sha256": "6a9d8bc9c6e7b3bce83cc6524bd56c27d16c1ff1c04aed0d29af2c08228c5897",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "jk01",
+    "start_seconds": 0,
+    "end_seconds": 60.952
+  },
+  "measurement": {
+    "sample_peak": 0.108067,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

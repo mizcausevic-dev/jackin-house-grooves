@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+jk01,Brick Floor,pack-local equal-tempered pitch collection,C,126,4/4,480,32,61440,midi/jk01-brick-floor/jk01-brick-floor-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+jk02,Vinyl Shift,pack-local equal-tempered pitch collection,D#,126,4/4,480,32,61440,midi/jk02-vinyl-shift/jk02-vinyl-shift-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+jk03,Back Pocket,pack-local equal-tempered pitch collection,F#,126,4/4,480,32,61440,midi/jk03-back-pocket/jk03-back-pocket-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+jk04,Open Door,pack-local equal-tempered pitch collection,C#,126,4/4,480,32,61440,midi/jk04-open-door/jk04-open-door-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
