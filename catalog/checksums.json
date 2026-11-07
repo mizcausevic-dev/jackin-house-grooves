@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/jackin-house-grooves-midi.zip",
-      "bytes": 32997,
-      "sha256": "6292ee971149c3530aa5778f934394dc9465ff6de27619c1e729e2aa8cdee380"
+      "bytes": 33984,
+      "sha256": "b4946175d38c661c4428c4c049b26ed090f6cb6f46ba5ea8a3bd7e2b6c72fa77"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9723,
-      "sha256": "07e5bbed97c65d1aed11a11a7bf529080a97b4037b835af56a1c204247e1e369"
+      "bytes": 9913,
+      "sha256": "922cc58137798e664a7c8bd59236e933b5bc3ea5b9eca2a15d922e6e51ba885e"
     },
     {
       "path": "midi/jk01-brick-floor/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "85c4e25f1f9e01c199af0ebd11c5f82866149bfd6b4e0fa22aeee0877aa045c8"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/jackin-house-grooves-simple-synth-preview.mp3",
       "bytes": 1476484,
       "sha256": "b3306ced4ad0929bb31986df5213a2d2b2514e09e5d10022ca2713c567a55835"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4046,
-      "sha256": "32fd70f0bb8f5fdf70fbf1940678b1e94a98f103245cfb6f52ba34e0af1c8da7"
+      "bytes": 4161,
+      "sha256": "893968809b349efb86146aedeadd5b003a789ba55bd6dea1b75529ce50b3cb21"
     },
     {
       "path": "REVISION.md",
